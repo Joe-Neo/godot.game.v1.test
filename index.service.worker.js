@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755465047|410122367614';
+const CACHE_VERSION = '1756893136|1258390090968';
 /** @type {string} */
 const CACHE_PREFIX = 'strandedsurvival-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
